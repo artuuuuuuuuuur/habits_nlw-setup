@@ -1,14 +1,12 @@
-<h1>Habits<h1>
-<div style="font-size: 60%" align="center">O app Habits é uma ferramenta apresentada no evento nlw-setup da Rocketseat como forma de exercício usando conhecimentos de front-end e back-end. <br>(Trilha Ignite)</div> <br>
-<ul style="font-size: 90%">Features:<ul>
-<div style="font-size: 70%">
+# Habits
+## O app Habits é uma ferramenta apresentada no evento nlw-setup da Rocketseat como forma de exercício usando conhecimentos de front-end e back-end. <br>(Trilha Ignite) <br>
+
+### Features:
 <li>Criar hábitos e gerenciá-los, podendo definir os dias da semana em que esses hábitos serão praticados;</li>
 <li>Deletar, ler e editar hábitos;</li>
 <li>Visualizar a quantidade de ações feitas por dia.</li> <br> <br>
-</div>
 
-<div style="font-size: 20px; align: center">
-<h2 style="font-size: 120%">Ferramentas:</h2>
+### Ferramentas:
 
 > |Plataforma|Front-end|Back-end|Linguagem| 
 > | ---------- | --- | ---------| --------|
